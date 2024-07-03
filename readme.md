@@ -4,6 +4,6 @@ This project provides a simple file management system using Node.js and Express.
 
 **All the APIs are well documented using Postman Documentation and Published** - [published API documentation link](https://documenter.getpostman.com/view/34880470/2sA3dxEByh)
 
-**Deployed my server in Render** - [Deployed API URL]()
+**Deployed my server in Render** - [Deployed API URL](https://day37-jgqz.onrender.com)
 
 **Note: Since I'm deployed the apis in render's free tier, The initial request is taking time, Please wait little longer for initial request**
